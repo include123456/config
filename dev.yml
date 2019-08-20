@@ -1,3 +1,5 @@
+
+myww=myww version 2
 spring:
   application:
     name: config-client
